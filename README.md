@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bera Rıdvan Yavuz</h1>
-<h3 align="center">I'm a software student in high school and trying improved myself</h3>
+<h3 align="center">I'm a software student in high school and trying</h3>
+
+- 🔭 I’m currently doing an internship at [Probel](https://www.probel.com.tr/)
+
+- 📫 How to reach me **ridvany725@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
